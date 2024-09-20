@@ -1,0 +1,6 @@
+<config>
+    <user>riper</user>
+    <hostname>my_computer</hostname>
+    <tar_fs_path>./filesystem.tar</tar_fs_path>
+    <log_file_path>./log.json</log_file_path>
+</config>
