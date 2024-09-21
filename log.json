@@ -3,3 +3,34 @@
 {"user": "riper", "command": ";s", "timestamp": "2024-09-20 11:14:39"}
 {"user": "riper", "command": "ls", "timestamp": "2024-09-20 11:14:42"}
 {"user": "riper", "command": "ls", "timestamp": "2024-09-20 11:14:44"}
+{"user": "riper", "command": "exit", "timestamp": "2024-09-20 11:25:08"}
+{"user": "riper", "command": "cd tmp", "timestamp": "2024-09-20 11:25:28"}
+{"user": "riper", "command": "cd ../", "timestamp": "2024-09-20 11:25:42"}
+{"user": "riper", "command": "pwd", "timestamp": "2024-09-20 11:25:49"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-20 11:25:52"}
+{"user": "riper", "command": "cd tmp", "timestamp": "2024-09-20 11:26:01"}
+{"user": "riper", "command": "cd ../", "timestamp": "2024-09-20 11:26:09"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-20 11:26:20"}
+{"user": "riper", "command": "date", "timestamp": "2024-09-20 11:28:11"}
+{"user": "riper", "command": "rev rev", "timestamp": "2024-09-20 11:28:32"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-20 11:29:08"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-20 11:29:12"}
+{"user": "riper", "command": "exit", "timestamp": "2024-09-20 11:30:29"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-20 11:33:00"}
+{"user": "riper", "command": "date", "timestamp": "2024-09-20 11:33:04"}
+{"user": "riper", "command": "rev ver", "timestamp": "2024-09-20 11:33:11"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-21 09:19:26"}
+{"user": "riper", "command": "cd ../", "timestamp": "2024-09-21 09:19:49"}
+{"user": "riper", "command": "cd../", "timestamp": "2024-09-21 09:19:52"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-21 09:19:55"}
+{"user": "riper", "command": "cd ../", "timestamp": "2024-09-21 09:20:03"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-21 09:20:05"}
+{"user": "riper", "command": "exit", "timestamp": "2024-09-21 09:22:17"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-21 09:32:35"}
+{"user": "riper", "command": "cd test_directory", "timestamp": "2024-09-21 09:32:50"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-21 09:32:53"}
+{"user": "riper", "command": "exit", "timestamp": "2024-09-21 09:43:14"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-21 10:17:59"}
+{"user": "riper", "command": "date", "timestamp": "2024-09-21 10:18:01"}
+{"user": "riper", "command": "cd test_directory", "timestamp": "2024-09-21 10:18:13"}
+{"user": "riper", "command": "ls", "timestamp": "2024-09-21 10:18:14"}
